@@ -1,0 +1,7 @@
+Rule ID,Target Range,Condition / Logic,Formatting,Purpose
+CF-01,H2:H31,Color scale: minimum → 50th percentile → maximum,Red → Yellow → Green,"Compare low, middle, and high sales"
+CF-02,I2:I31,Profit < 0,Light red fill; dark red bold text,Identify loss-making orders
+CF-03,I2:I31,Profit >= 100,Light green fill; dark green bold text,Spot higher-profit orders
+CF-04,H2:H31,Top 10% of Sales values,Top 10% conditional rule,Highlight top-performing sales orders
+CF-05,F2:F31,Quantity <= 3,Light orange fill; bold text,Flag low-quantity orders
+CF-06,F2:F31,Quantity data bar,Blue data bars,Compare quantities visually

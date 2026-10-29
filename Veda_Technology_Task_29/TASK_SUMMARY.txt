@@ -1,0 +1,7 @@
+Veda Technology Internship | Task 29 | Basic Conditional Formatting
+
+Objective: Highlight top and bottom values automatically and improve report readability.
+Tool: Excel
+Dataset: Retail Sales sample dataset (30 orders)
+Main deliverable: workbook/Retail_Sales_Conditional_Formatting.xlsx
+Rules: Rules List worksheet and documentation/Rules_List.csv
